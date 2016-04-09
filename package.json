@@ -48,7 +48,8 @@
     "startpoint": "x",
     "stream-buffers": "x",
     "underscore": "~1.4.4",
-    "xmlbuilder": "^2.4.5"
+    "xmlbuilder": "^2.4.5",
+    "marked": "^0.3.5"
   },
   "author": {
     "name": "Ziv Barber",
